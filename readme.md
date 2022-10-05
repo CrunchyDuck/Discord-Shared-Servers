@@ -1,6 +1,6 @@
 ## What's this?
-This program searches through all the members in a server, checks how many guilds they have in common, and reports that information back to you!
-It requires a bit of manual work to get started.
+This program searches through all the members of a server/your DMs, checks how many servers they have in common with you, and reports that information back to you!
+It does this by getting their user IDs from their profile pictures, meaning any profile picture you load will be included in the list.
 
 ## Why's this?
 I wanted to find new friends, and common interests is a good start :)
