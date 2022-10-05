@@ -14,6 +14,7 @@ These instructions are for Firefox, but can be modified for other browsers.
 1. Open your web browser in incognito/private mode.
 1. Open Inspect Element with ctrl + shift + I.
 1. Click the Network tab. Do not close this until told to.
+1. On the network tab there should be a list of filters (HTML, CSS, JS...). Click "All"
 1. Log into Discord on your browser.
 
 Firefox will now start recording any data from Discord. We'll be using this to get the IDs of the people you want to check.
